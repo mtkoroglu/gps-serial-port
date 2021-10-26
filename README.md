@@ -3,6 +3,16 @@ Bu projede
 
 https://www.sparkfun.com/products/retired/13199
 
-GPS alıcısını kullanıyoruz. Shield ile geldiğinden direk olarak Arduino Uno'ya bağlanıyor. TinyGPS kütüphanesi kullanarak Arduino'ya transfer edilen enlem ve boylam verisini bilgisayara hemen MATLAB ve Python ile okuduk. Yapılanları izlemek için aşağıdaki resme tıklayınız.
+GPS alıcısını kullanıyoruz. Shield ile geldiğinden direk üstten Arduino Uno'ya bağlanıyor. **TinyGPS** kütüphanesi [1]
+
+https://github.com/mikalhart/TinyGPS
+
+kullanarak Arduino'ya transfer edilen enlem ve boylam verisini bilgisayara hem MATLAB hem de Python ile okuduk. Python'da bu işi yapabilmek için **numpy** ve **pyserial** [2] paketlerine ihtiyaç duyduk. 
+
+Yapılanları izlemek için aşağıdaki resme tıklayınız.
 
 [![IMAGE ALT TEXT HERE](figure/screenshotLQ.png)](https://www.youtube.com/watch?v=1EohKtLK6tc)
+
+## Kaynaklar
+[1] TinyGPS 13 by Mikal Hart - http://arduiniana.org/2013/09/greater-accuracy-with-tinygps-13/</br>
+[2] **pyserial** kütüphanesi - https://pyserial.readthedocs.io/en/latest/
