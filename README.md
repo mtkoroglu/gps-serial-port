@@ -15,7 +15,7 @@ GPS kodunu MATLAB ve Python'a transfer edip ekrana basan kodların açıklaması
 
 Gümüşhane Üniversitesi Stadyumu'nda yapılan bir yürüyüşün verisinin gerçek zamanda MATLAB'da görselleştirilmesini izlemek için aşağıdaki resme tıklayın.
 
-[![IMAGE ALT TEXT HERE](figure/saha-gps-veri.jpg)](https://youtu.be/dK4XJg6-qIM)
+[![IMAGE ALT TEXT HERE](figure/saha-gps-veri.jpg)](https://www.youtube.com/watch?v=dK4XJg6-qIM)
 
 ## Kaynaklar
 [1] TinyGPS 13 by Mikal Hart - http://arduiniana.org/2013/09/greater-accuracy-with-tinygps-13/</br>
