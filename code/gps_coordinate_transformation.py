@@ -15,15 +15,11 @@ def dms2float(deg, min, sec):
 
 coordinate = float(input('Ondalık bir sayı girin: '))
 (d, m, s) = float2dms(coordinate)
-print('%.6f ondalık sayısı %i derece %i dakika %.5f saniyeye eşittir.' %(coordinate, d, m, s))
-
-coordinate = float(input('Ondalık bir sayı daha girin: '))
-(d, m, s) = float2dms(coordinate)
-print('%.6f ondalık sayısı %i derece %i dakika %.5f saniyeye eşittir.' %(coordinate, d, m, s))
+print('%.6f° = %i° %i" %.5f\'' %(coordinate, d, m, s))
 
 print('Bu sefer derece, dakika, saniye formatında üç sayı girin.')
 d = int(input('Derece (tam sayı): '))
 m = int(input('Dakika (tam sayı): '))
 s = float(input('Saniye (ondalık sayı): '))
 coordinate = dms2float(d, m, s)
-print('%i derece %i dakika %.5f saniye ondalık sayı olarak %.6f\'a eşittir.' %(d, m, s, coordinate))
+print('%i° %i" %.5f\' = %.6f°' %(d, m, s, coordinate))
