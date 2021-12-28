@@ -17,6 +17,10 @@ Gümüşhane Üniversitesi Stadyumu'nda yapılan bir yürüyüşün verisinin ge
 
 [![IMAGE ALT TEXT HERE](figure/saha-gps-veri.jpg)](https://www.youtube.com/watch?v=dK4XJg6-qIM)
 
+GPS koordinat dönüşümünü anlamak ve MATLAB kodlarının açıklamalarını görmek için aşağıdaki resime tıklayın.
+
+[![IMAGE ALT TEXT HERE](figure/red-notice.png)](https://www.youtube.com/watch?v=0iHgLb6g7G8)
+
 ## Kaynaklar
 [1] TinyGPS 13 by Mikal Hart - http://arduiniana.org/2013/09/greater-accuracy-with-tinygps-13/</br>
 [2] **pyserial** kütüphanesi - https://pyserial.readthedocs.io/en/latest/</br>
