@@ -13,7 +13,7 @@ def float2dms(coordinateFloat):
 def dms2float(deg, min, sec):
     return np.sign(deg) * (abs(deg) + min/60 + sec/3600)
 
-coordinate = float(input('Ondalık bir sayı girin: '))
+coordinate = float(input('Ondalıklı bir sayı girin: '))
 (d, m, s) = float2dms(coordinate)
 print('%.6f° = %i° %i" %.5f\'' %(coordinate, d, m, s))
 

@@ -1,9 +1,9 @@
 clear all; clc;
-coordinate = input('Ondalık bir sayı girin: ');
+coordinate = input('Ondalıklı bir sayı girin: ');
 [d, m, s] = float2dms(coordinate);
 fprintf('%.6f° = %i° %i" %.5f''\n', coordinate, d, m, s);
 
-coordinate = input('Ondalık bir sayı daha girin: ');
+coordinate = input('Ondalıklı bir sayı daha girin: ');
 [d, m, s] = float2dms(coordinate);
 fprintf('%.6f° = %i° %i" %.5f''\n', coordinate, d, m, s);
 
