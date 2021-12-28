@@ -21,6 +21,10 @@ GPS koordinat dönüşümünü anlamak ve MATLAB kodlarının açıklamalarını
 
 [![IMAGE ALT TEXT HERE](figure/red-notice.png)](https://www.youtube.com/watch?v=0iHgLb6g7G8)
 
+GPS koordinat dönüşümünü Python'da gerçeklemek için aşağıdaki resime tıklayınca gelen videoya bakabilirsiniz.
+
+[![IMAGE ALT TEXT HERE](figure/red-notice.png)](https://youtu.be/Jleb_hK-YtA)
+
 ## Kaynaklar
 [1] TinyGPS 13 by Mikal Hart - http://arduiniana.org/2013/09/greater-accuracy-with-tinygps-13/</br>
 [2] **pyserial** kütüphanesi - https://pyserial.readthedocs.io/en/latest/</br>
