@@ -19,4 +19,5 @@ Gümüşhane Üniversitesi Stadyumu'nda yapılan bir yürüyüşün verisinin ge
 
 ## Kaynaklar
 [1] TinyGPS 13 by Mikal Hart - http://arduiniana.org/2013/09/greater-accuracy-with-tinygps-13/</br>
-[2] **pyserial** kütüphanesi - https://pyserial.readthedocs.io/en/latest/
+[2] **pyserial** kütüphanesi - https://pyserial.readthedocs.io/en/latest/</br>
+[3] SparkFun GPS and Shield - https://www.sparkfun.com/products/retired/13199
